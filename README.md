@@ -36,16 +36,6 @@ This project is a Python-based tool designed to evaluate and manage portfolio ri
 
 ---
 
-## How This Project Helps
-
-This project demonstrates how quantitative techniques can be applied to real-world portfolio risk management. It is particularly valuable for:
-
-- **Students & Learners**: Understanding how financial risk metrics are computed and applied.
-- **Analysts & Professionals**: Showcasing practical implementation of risk models.
-- **Interview Preparation**: A solid project to discuss concepts like Sharpe Ratio, VaR, and portfolio optimization in data-driven finance.
-
----
-
 ## Visualizations
 
 ### 1. Adjusted Close Prices
