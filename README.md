@@ -46,6 +46,23 @@ This project demonstrates how quantitative techniques can be applied to real-wor
 
 ---
 
+## Visualizations
+
+### 1. Adjusted Close Prices
+Tracks the historical performance of individual assets (AAPL, GOOGL, MSFT).  
+![Adjusted Close Prices](Visualization%201.png)
+
+---
+
+### 2. Efficient Frontier
+Shows portfolio trade-offs between risk (volatility) and return.  
+- **Orange X**: Portfolio with maximum Sharpe ratio.  
+- **Green Diamond**: Portfolio with minimum volatility.  
+
+![Efficient Frontier](Visualization%202.png)
+
+---
+
 ## Potential Improvements
 
 - Integrating live market data from APIs (Yahoo Finance, Alpha Vantage).
